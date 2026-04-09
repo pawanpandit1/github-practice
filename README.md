@@ -1,1 +1,1 @@
-# github-practice
+Hii this is my git practice repo only
